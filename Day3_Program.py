@@ -40,3 +40,16 @@ print (a <= b)
 num = 10
 num += 10            #10+10 => 20
 print ("num :-", num)
+
+
+#logical operator
+a = 50
+b = 20
+print (not False)
+print (not (a > b))
+
+val1 = False
+val2 = False
+print ("AND :- ",  val1 and val2) 
+
+print ("OR operators", a == b ) or val2
